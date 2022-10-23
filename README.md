@@ -17,7 +17,11 @@
 
 ~ 1847 nSLOC
 
-TBD
+- `Lender.sol`
+- `MarketPlace.sol`
+- `Redeemer.sol`
+- `Converter.sol`
+- `ERC5095.sol`
 
 # About Illuminate
 
