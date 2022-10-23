@@ -55,11 +55,7 @@ That said, we retain multiple methods for approvals / withdrawals / fees / pausi
 
 With all this established, we are likely contesting / rejecting most admin centralization issues, unless there are remediations which do not break the ethos of our early / safeguarded launch.
 
-## **Scope**
-
-The scope of this audit includes our core contracts.
-
-### Areas of Concern
+## Areas of Concern
 
 The areas we are most concerned about for this audit are:
 
