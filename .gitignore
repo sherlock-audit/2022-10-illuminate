@@ -1,0 +1,11 @@
+# Foundry files
+out/
+solidity-files-cache.json
+.gas-snapshot
+broadcast/
+
+# Workspace
+.vscode/
+
+# Gas reports
+*.report
